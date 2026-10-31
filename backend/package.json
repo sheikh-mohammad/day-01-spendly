@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "bcryptjs",
+    "nodemon"
+  ],
+  "homepage": "https://github.com/sheikh-mohammad/day-01-spendly#readme",
+  "bugs": {
+    "url": "https://github.com/sheikh-mohammad/day-01-spendly/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheikh-mohammad/day-01-spendly.git"
+  },
+  "license": "ISC",
+  "author": "Sheikh Mohammad",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
